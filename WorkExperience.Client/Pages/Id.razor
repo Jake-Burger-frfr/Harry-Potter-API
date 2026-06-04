@@ -10,7 +10,7 @@
     <Field Horizontal>
         <FieldLabel ColumnSize="ColumnSize.Is1">ID:</FieldLabel>
         <FieldBody ColumnSize="ColumnSize.Is4">
-            <input class="form-control" placeholder="Search" @bind="IDSearchText" @onkeydown="IDSearchChanged"/>
+            <input class="form-control" placeholder="Search" @bind="IDSearchText" @bind:event="oninput" @onkeydown="OnKeyDown"/>
         </FieldBody>
     </Field>
 </div>
@@ -95,6 +95,14 @@
     private string IDSearchText = string.Empty;
 
     private bool IsLoading;
+
+    private async Task OnKeyDown(KeyboardEventArgs e)
+    {
+        if (e.Key == "Enter")
+        {
+            await IDSearchChanged();
+        }
+    }
 
     private async Task IDSearchChanged()
     {
