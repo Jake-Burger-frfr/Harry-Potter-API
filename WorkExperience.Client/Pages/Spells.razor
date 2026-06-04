@@ -1,0 +1,77 @@
+@page "/spells"
+@using Blazorise.LoadingIndicator
+@using WorkExperience.Client.Core.Models
+@using WorkExperience.Client.Core.Services
+@inject HarryPotterService HarryPotterService
+
+<h1><b>Spells Challenge</b></h1>
+
+<div class="search-field">
+    <Field Horizontal>
+        <FieldLabel ColumnSize="ColumnSize.Is1">Spell:</FieldLabel>
+        <FieldBody ColumnSize="ColumnSize.Is4">
+            <input class="form-control" placeholder="Search" @bind="SpellSearchText" @bind:event="oninput"/>
+        </FieldBody>
+    </Field>
+</div>
+
+<LoadingIndicator @bind-Visible="isLoading" />
+
+<table class="table table-striped table-hover spells-table">
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>Description</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (Spell spell in FilteredSpells)
+        {
+            <tr>
+                <td>@spell.Name</td>
+                <td>@spell.Description</td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+
+@{
+    <style scoped>
+        .search-field {
+            padding: 10px;
+        }
+
+        .spells-table {
+            margin-top: 10px;
+        }
+    </style>
+}
+
+@code {
+    private List<Spell> SpellList { get; set; } = new List<Spell>();
+
+    private string SpellSearchText = string.Empty;
+
+    private bool isLoading;
+
+    protected override async Task OnInitializedAsync()
+    {
+        isLoading = true;
+        SpellList = await HarryPotterService.GetSpellsAsync();
+        isLoading = false;
+    }
+    private IEnumerable<Spell> FilteredSpells
+    {
+        get
+        {
+            if (string.IsNullOrWhiteSpace(SpellSearchText))
+            {
+                return SpellList;
+            }
+            return SpellList.Where(spell =>
+                (spell.Name?.Contains(SpellSearchText, StringComparison.OrdinalIgnoreCase) == true) ||
+                (spell.Description?.Contains(SpellSearchText, StringComparison.OrdinalIgnoreCase) == true));
+        }
+    }
+}

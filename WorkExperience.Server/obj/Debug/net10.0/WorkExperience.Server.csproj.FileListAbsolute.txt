@@ -1,0 +1,234 @@
+/Users/oroberts/Library/Mobile Documents/com~apple~CloudDocs/RDT/WorkExperience/WorkExperience/WorkExperience.Server/bin/Debug/net10.0/WorkExperience.Client.runtimeconfig.json
+/Users/oroberts/Library/Mobile Documents/com~apple~CloudDocs/RDT/WorkExperience/WorkExperience/WorkExperience.Server/bin/Debug/net10.0/WorkExperience.Client.staticwebassets.runtime.json
+/Users/oroberts/Library/Mobile Documents/com~apple~CloudDocs/RDT/WorkExperience/WorkExperience/WorkExperience.Server/bin/Debug/net10.0/WorkExperience.Client.staticwebassets.endpoints.json
+/Users/oroberts/Library/Mobile Documents/com~apple~CloudDocs/RDT/WorkExperience/WorkExperience/WorkExperience.Server/bin/Debug/net10.0/appsettings.Development.json
+/Users/oroberts/Library/Mobile Documents/com~apple~CloudDocs/RDT/WorkExperience/WorkExperience/WorkExperience.Server/bin/Debug/net10.0/appsettings.json
+/Users/oroberts/Library/Mobile Documents/com~apple~CloudDocs/RDT/WorkExperience/WorkExperience/WorkExperience.Server/bin/Debug/net10.0/BlazorDebugProxy/BrowserDebugHost.dll
+/Users/oroberts/Library/Mobile Documents/com~apple~CloudDocs/RDT/WorkExperience/WorkExperience/WorkExperience.Server/bin/Debug/net10.0/BlazorDebugProxy/BrowserDebugHost.runtimeconfig.json
+/Users/oroberts/Library/Mobile Documents/com~apple~CloudDocs/RDT/WorkExperience/WorkExperience/WorkExperience.Server/bin/Debug/net10.0/BlazorDebugProxy/BrowserDebugProxy.dll
+/Users/oroberts/Library/Mobile Documents/com~apple~CloudDocs/RDT/WorkExperience/WorkExperience/WorkExperience.Server/bin/Debug/net10.0/BlazorDebugProxy/Microsoft.CodeAnalysis.CSharp.dll
+/Users/oroberts/Library/Mobile Documents/com~apple~CloudDocs/RDT/WorkExperience/WorkExperience/WorkExperience.Server/bin/Debug/net10.0/BlazorDebugProxy/Microsoft.CodeAnalysis.CSharp.Scripting.dll
+/Users/oroberts/Library/Mobile Documents/com~apple~CloudDocs/RDT/WorkExperience/WorkExperience/WorkExperience.Server/bin/Debug/net10.0/BlazorDebugProxy/Microsoft.CodeAnalysis.dll
+/Users/oroberts/Library/Mobile Documents/com~apple~CloudDocs/RDT/WorkExperience/WorkExperience/WorkExperience.Server/bin/Debug/net10.0/BlazorDebugProxy/Microsoft.CodeAnalysis.Scripting.dll
+/Users/oroberts/Library/Mobile Documents/com~apple~CloudDocs/RDT/WorkExperience/WorkExperience/WorkExperience.Server/bin/Debug/net10.0/BlazorDebugProxy/Microsoft.FileFormats.dll
+/Users/oroberts/Library/Mobile Documents/com~apple~CloudDocs/RDT/WorkExperience/WorkExperience/WorkExperience.Server/bin/Debug/net10.0/BlazorDebugProxy/Microsoft.NET.WebAssembly.Webcil.dll
+/Users/oroberts/Library/Mobile Documents/com~apple~CloudDocs/RDT/WorkExperience/WorkExperience/WorkExperience.Server/bin/Debug/net10.0/BlazorDebugProxy/Microsoft.SymbolStore.dll
+/Users/oroberts/Library/Mobile Documents/com~apple~CloudDocs/RDT/WorkExperience/WorkExperience/WorkExperience.Server/bin/Debug/net10.0/BlazorDebugProxy/Newtonsoft.Json.dll
+/Users/oroberts/Library/Mobile Documents/com~apple~CloudDocs/RDT/WorkExperience/WorkExperience/WorkExperience.Server/bin/Debug/net10.0/WorkExperience.Server.staticwebassets.runtime.json
+/Users/oroberts/Library/Mobile Documents/com~apple~CloudDocs/RDT/WorkExperience/WorkExperience/WorkExperience.Server/bin/Debug/net10.0/WorkExperience.Server.staticwebassets.endpoints.json
+/Users/oroberts/Library/Mobile Documents/com~apple~CloudDocs/RDT/WorkExperience/WorkExperience/WorkExperience.Server/bin/Debug/net10.0/WorkExperience.Server
+/Users/oroberts/Library/Mobile Documents/com~apple~CloudDocs/RDT/WorkExperience/WorkExperience/WorkExperience.Server/bin/Debug/net10.0/WorkExperience.Server.deps.json
+/Users/oroberts/Library/Mobile Documents/com~apple~CloudDocs/RDT/WorkExperience/WorkExperience/WorkExperience.Server/bin/Debug/net10.0/WorkExperience.Server.runtimeconfig.json
+/Users/oroberts/Library/Mobile Documents/com~apple~CloudDocs/RDT/WorkExperience/WorkExperience/WorkExperience.Server/bin/Debug/net10.0/WorkExperience.Server.dll
+/Users/oroberts/Library/Mobile Documents/com~apple~CloudDocs/RDT/WorkExperience/WorkExperience/WorkExperience.Server/bin/Debug/net10.0/WorkExperience.Server.pdb
+/Users/oroberts/Library/Mobile Documents/com~apple~CloudDocs/RDT/WorkExperience/WorkExperience/WorkExperience.Server/bin/Debug/net10.0/Blazorise.dll
+/Users/oroberts/Library/Mobile Documents/com~apple~CloudDocs/RDT/WorkExperience/WorkExperience/WorkExperience.Server/bin/Debug/net10.0/Blazorise.Bootstrap5.dll
+/Users/oroberts/Library/Mobile Documents/com~apple~CloudDocs/RDT/WorkExperience/WorkExperience/WorkExperience.Server/bin/Debug/net10.0/Blazorise.Components.dll
+/Users/oroberts/Library/Mobile Documents/com~apple~CloudDocs/RDT/WorkExperience/WorkExperience/WorkExperience.Server/bin/Debug/net10.0/Blazorise.FluentValidation.dll
+/Users/oroberts/Library/Mobile Documents/com~apple~CloudDocs/RDT/WorkExperience/WorkExperience/WorkExperience.Server/bin/Debug/net10.0/Blazorise.Icons.FontAwesome.dll
+/Users/oroberts/Library/Mobile Documents/com~apple~CloudDocs/RDT/WorkExperience/WorkExperience/WorkExperience.Server/bin/Debug/net10.0/Blazorise.Licensing.dll
+/Users/oroberts/Library/Mobile Documents/com~apple~CloudDocs/RDT/WorkExperience/WorkExperience/WorkExperience.Server/bin/Debug/net10.0/Blazorise.LoadingIndicator.dll
+/Users/oroberts/Library/Mobile Documents/com~apple~CloudDocs/RDT/WorkExperience/WorkExperience/WorkExperience.Server/bin/Debug/net10.0/Blazorise.Snackbar.dll
+/Users/oroberts/Library/Mobile Documents/com~apple~CloudDocs/RDT/WorkExperience/WorkExperience/WorkExperience.Server/bin/Debug/net10.0/FluentValidation.dll
+/Users/oroberts/Library/Mobile Documents/com~apple~CloudDocs/RDT/WorkExperience/WorkExperience/WorkExperience.Server/bin/Debug/net10.0/Microsoft.AspNetCore.Components.WebAssembly.dll
+/Users/oroberts/Library/Mobile Documents/com~apple~CloudDocs/RDT/WorkExperience/WorkExperience/WorkExperience.Server/bin/Debug/net10.0/Microsoft.AspNetCore.Components.WebAssembly.Server.dll
+/Users/oroberts/Library/Mobile Documents/com~apple~CloudDocs/RDT/WorkExperience/WorkExperience/WorkExperience.Server/bin/Debug/net10.0/Microsoft.JSInterop.WebAssembly.dll
+/Users/oroberts/Library/Mobile Documents/com~apple~CloudDocs/RDT/WorkExperience/WorkExperience/WorkExperience.Server/bin/Debug/net10.0/Microsoft.OpenApi.dll
+/Users/oroberts/Library/Mobile Documents/com~apple~CloudDocs/RDT/WorkExperience/WorkExperience/WorkExperience.Server/bin/Debug/net10.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/oroberts/Library/Mobile Documents/com~apple~CloudDocs/RDT/WorkExperience/WorkExperience/WorkExperience.Server/bin/Debug/net10.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/oroberts/Library/Mobile Documents/com~apple~CloudDocs/RDT/WorkExperience/WorkExperience/WorkExperience.Server/bin/Debug/net10.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/oroberts/Library/Mobile Documents/com~apple~CloudDocs/RDT/WorkExperience/WorkExperience/WorkExperience.Server/bin/Debug/net10.0/WorkExperience.Client.dll
+/Users/oroberts/Library/Mobile Documents/com~apple~CloudDocs/RDT/WorkExperience/WorkExperience/WorkExperience.Server/bin/Debug/net10.0/WorkExperience.Client.pdb
+/Users/oroberts/Library/Mobile Documents/com~apple~CloudDocs/RDT/WorkExperience/WorkExperience/WorkExperience.Server/obj/Debug/net10.0/WorkExperience.Server.csproj.AssemblyReference.cache
+/Users/oroberts/Library/Mobile Documents/com~apple~CloudDocs/RDT/WorkExperience/WorkExperience/WorkExperience.Server/obj/Debug/net10.0/rpswa.dswa.cache.json
+/Users/oroberts/Library/Mobile Documents/com~apple~CloudDocs/RDT/WorkExperience/WorkExperience/WorkExperience.Server/obj/Debug/net10.0/WorkExperience.Server.GeneratedMSBuildEditorConfig.editorconfig
+/Users/oroberts/Library/Mobile Documents/com~apple~CloudDocs/RDT/WorkExperience/WorkExperience/WorkExperience.Server/obj/Debug/net10.0/WorkExperience.Server.AssemblyInfoInputs.cache
+/Users/oroberts/Library/Mobile Documents/com~apple~CloudDocs/RDT/WorkExperience/WorkExperience/WorkExperience.Server/obj/Debug/net10.0/WorkExperience.Server.AssemblyInfo.cs
+/Users/oroberts/Library/Mobile Documents/com~apple~CloudDocs/RDT/WorkExperience/WorkExperience/WorkExperience.Server/obj/Debug/net10.0/WorkExperience.Server.csproj.CoreCompileInputs.cache
+/Users/oroberts/Library/Mobile Documents/com~apple~CloudDocs/RDT/WorkExperience/WorkExperience/WorkExperience.Server/obj/Debug/net10.0/WorkExperience.Server.MvcApplicationPartsAssemblyInfo.cs
+/Users/oroberts/Library/Mobile Documents/com~apple~CloudDocs/RDT/WorkExperience/WorkExperience/WorkExperience.Server/obj/Debug/net10.0/WorkExperience.Server.MvcApplicationPartsAssemblyInfo.cache
+/Users/oroberts/Library/Mobile Documents/com~apple~CloudDocs/RDT/WorkExperience/WorkExperience/WorkExperience.Server/obj/Debug/net10.0/rjimswa.dswa.cache.json
+/Users/oroberts/Library/Mobile Documents/com~apple~CloudDocs/RDT/WorkExperience/WorkExperience/WorkExperience.Server/obj/Debug/net10.0/rjsmrazor.dswa.cache.json
+/Users/oroberts/Library/Mobile Documents/com~apple~CloudDocs/RDT/WorkExperience/WorkExperience/WorkExperience.Server/obj/Debug/net10.0/rjsmcshtml.dswa.cache.json
+/Users/oroberts/Library/Mobile Documents/com~apple~CloudDocs/RDT/WorkExperience/WorkExperience/WorkExperience.Server/obj/Debug/net10.0/jsmodules/jsmodules.build.manifest.json
+/Users/oroberts/Library/Mobile Documents/com~apple~CloudDocs/RDT/WorkExperience/WorkExperience/WorkExperience.Server/obj/Debug/net10.0/scopedcss/bundle/WorkExperience.Server.styles.css
+/Users/oroberts/Library/Mobile Documents/com~apple~CloudDocs/RDT/WorkExperience/WorkExperience/WorkExperience.Server/obj/Debug/net10.0/compressed/gaui1z37so-{0}-phgpcgnw7u-phgpcgnw7u.gz
+/Users/oroberts/Library/Mobile Documents/com~apple~CloudDocs/RDT/WorkExperience/WorkExperience/WorkExperience.Server/obj/Debug/net10.0/compressed/mxrobteb8q-{0}-0rup0t2eqz-0rup0t2eqz.gz
+/Users/oroberts/Library/Mobile Documents/com~apple~CloudDocs/RDT/WorkExperience/WorkExperience/WorkExperience.Server/obj/Debug/net10.0/compressed/cw1qb95rm2-{0}-id0t3r0t65-id0t3r0t65.gz
+/Users/oroberts/Library/Mobile Documents/com~apple~CloudDocs/RDT/WorkExperience/WorkExperience/WorkExperience.Server/obj/Debug/net10.0/compressed/c6dzolm4jo-{0}-edftkvihsy-edftkvihsy.gz
+/Users/oroberts/Library/Mobile Documents/com~apple~CloudDocs/RDT/WorkExperience/WorkExperience/WorkExperience.Server/obj/Debug/net10.0/compressed/tnh13keuno-{0}-fhfndkf66a-fhfndkf66a.gz
+/Users/oroberts/Library/Mobile Documents/com~apple~CloudDocs/RDT/WorkExperience/WorkExperience/WorkExperience.Server/obj/Debug/net10.0/compressed/6uz3w87r3n-{0}-mf2m76trrc-mf2m76trrc.gz
+/Users/oroberts/Library/Mobile Documents/com~apple~CloudDocs/RDT/WorkExperience/WorkExperience/WorkExperience.Server/obj/Debug/net10.0/compressed/kt47rct1i8-{0}-v0tnmsmjzg-v0tnmsmjzg.gz
+/Users/oroberts/Library/Mobile Documents/com~apple~CloudDocs/RDT/WorkExperience/WorkExperience/WorkExperience.Server/obj/Debug/net10.0/compressed/3nmuv7gk71-{0}-kxl4mbvj6t-kxl4mbvj6t.gz
+/Users/oroberts/Library/Mobile Documents/com~apple~CloudDocs/RDT/WorkExperience/WorkExperience/WorkExperience.Server/obj/Debug/net10.0/compressed/v2go4wikce-{0}-qtm6wgjndc-qtm6wgjndc.gz
+/Users/oroberts/Library/Mobile Documents/com~apple~CloudDocs/RDT/WorkExperience/WorkExperience/WorkExperience.Server/obj/Debug/net10.0/compressed/m0qplqijzd-{0}-0valnhcveq-0valnhcveq.gz
+/Users/oroberts/Library/Mobile Documents/com~apple~CloudDocs/RDT/WorkExperience/WorkExperience/WorkExperience.Server/obj/Debug/net10.0/compressed/1msd00v79j-{0}-xp1cezqwri-xp1cezqwri.gz
+/Users/oroberts/Library/Mobile Documents/com~apple~CloudDocs/RDT/WorkExperience/WorkExperience/WorkExperience.Server/obj/Debug/net10.0/compressed/5zp9jtq1qf-{0}-32uw4ox8lb-32uw4ox8lb.gz
+/Users/oroberts/Library/Mobile Documents/com~apple~CloudDocs/RDT/WorkExperience/WorkExperience/WorkExperience.Server/obj/Debug/net10.0/compressed/czqfo1xsjr-{0}-bu9m185cvd-bu9m185cvd.gz
+/Users/oroberts/Library/Mobile Documents/com~apple~CloudDocs/RDT/WorkExperience/WorkExperience/WorkExperience.Server/obj/Debug/net10.0/compressed/gd43exgjdu-{0}-jpt4u823i0-jpt4u823i0.gz
+/Users/oroberts/Library/Mobile Documents/com~apple~CloudDocs/RDT/WorkExperience/WorkExperience/WorkExperience.Server/obj/Debug/net10.0/compressed/cupdfacrup-{0}-q2uxboq5fc-q2uxboq5fc.gz
+/Users/oroberts/Library/Mobile Documents/com~apple~CloudDocs/RDT/WorkExperience/WorkExperience/WorkExperience.Server/obj/Debug/net10.0/compressed/n00pwwa90n-{0}-s3bar82f1q-s3bar82f1q.gz
+/Users/oroberts/Library/Mobile Documents/com~apple~CloudDocs/RDT/WorkExperience/WorkExperience/WorkExperience.Server/obj/Debug/net10.0/compressed/yv3r1kifkn-{0}-s1nsmqqjya-s1nsmqqjya.gz
+/Users/oroberts/Library/Mobile Documents/com~apple~CloudDocs/RDT/WorkExperience/WorkExperience/WorkExperience.Server/obj/Debug/net10.0/compressed/g7jqtvzvwk-{0}-k67o7wyxcx-k67o7wyxcx.gz
+/Users/oroberts/Library/Mobile Documents/com~apple~CloudDocs/RDT/WorkExperience/WorkExperience/WorkExperience.Server/obj/Debug/net10.0/compressed/ierbjfsdxp-{0}-dkimrx166s-dkimrx166s.gz
+/Users/oroberts/Library/Mobile Documents/com~apple~CloudDocs/RDT/WorkExperience/WorkExperience/WorkExperience.Server/obj/Debug/net10.0/compressed/d3d48x6c6u-{0}-7mew5qey9y-7mew5qey9y.gz
+/Users/oroberts/Library/Mobile Documents/com~apple~CloudDocs/RDT/WorkExperience/WorkExperience/WorkExperience.Server/obj/Debug/net10.0/compressed/h2bffqmvww-{0}-0l009cx99s-0l009cx99s.gz
+/Users/oroberts/Library/Mobile Documents/com~apple~CloudDocs/RDT/WorkExperience/WorkExperience/WorkExperience.Server/obj/Debug/net10.0/compressed/0ip0cn01pl-{0}-o7l5gg8a1w-o7l5gg8a1w.gz
+/Users/oroberts/Library/Mobile Documents/com~apple~CloudDocs/RDT/WorkExperience/WorkExperience/WorkExperience.Server/obj/Debug/net10.0/compressed/yr1uxgfav1-{0}-czg09m7fbw-czg09m7fbw.gz
+/Users/oroberts/Library/Mobile Documents/com~apple~CloudDocs/RDT/WorkExperience/WorkExperience/WorkExperience.Server/obj/Debug/net10.0/compressed/3vtyy7ztlp-{0}-9sjnuohl93-9sjnuohl93.gz
+/Users/oroberts/Library/Mobile Documents/com~apple~CloudDocs/RDT/WorkExperience/WorkExperience/WorkExperience.Server/obj/Debug/net10.0/compressed/xkzm15a7rz-{0}-qgmopykj85-qgmopykj85.gz
+/Users/oroberts/Library/Mobile Documents/com~apple~CloudDocs/RDT/WorkExperience/WorkExperience/WorkExperience.Server/obj/Debug/net10.0/compressed/rd6qfbgcha-{0}-rdf588x9o3-rdf588x9o3.gz
+/Users/oroberts/Library/Mobile Documents/com~apple~CloudDocs/RDT/WorkExperience/WorkExperience/WorkExperience.Server/obj/Debug/net10.0/compressed/wt9grvv92r-{0}-4rmwhz9udx-4rmwhz9udx.gz
+/Users/oroberts/Library/Mobile Documents/com~apple~CloudDocs/RDT/WorkExperience/WorkExperience/WorkExperience.Server/obj/Debug/net10.0/compressed/tr09a0cfpg-{0}-cs38ynhyrk-cs38ynhyrk.gz
+/Users/oroberts/Library/Mobile Documents/com~apple~CloudDocs/RDT/WorkExperience/WorkExperience/WorkExperience.Server/obj/Debug/net10.0/compressed/bwhf9i0xrj-{0}-k77rf775v5-k77rf775v5.gz
+/Users/oroberts/Library/Mobile Documents/com~apple~CloudDocs/RDT/WorkExperience/WorkExperience/WorkExperience.Server/obj/Debug/net10.0/compressed/t0gn83llmv-{0}-edp1606bnc-edp1606bnc.gz
+/Users/oroberts/Library/Mobile Documents/com~apple~CloudDocs/RDT/WorkExperience/WorkExperience/WorkExperience.Server/obj/Debug/net10.0/compressed/ls076u4d3j-{0}-2wlo7snjy4-2wlo7snjy4.gz
+/Users/oroberts/Library/Mobile Documents/com~apple~CloudDocs/RDT/WorkExperience/WorkExperience/WorkExperience.Server/obj/Debug/net10.0/compressed/0rzts9d44c-{0}-5mbjrq4df3-5mbjrq4df3.gz
+/Users/oroberts/Library/Mobile Documents/com~apple~CloudDocs/RDT/WorkExperience/WorkExperience/WorkExperience.Server/obj/Debug/net10.0/compressed/ax5viny23p-{0}-m189u628rl-m189u628rl.gz
+/Users/oroberts/Library/Mobile Documents/com~apple~CloudDocs/RDT/WorkExperience/WorkExperience/WorkExperience.Server/obj/Debug/net10.0/compressed/c4jog3xkz4-{0}-pybrzh7rdh-pybrzh7rdh.gz
+/Users/oroberts/Library/Mobile Documents/com~apple~CloudDocs/RDT/WorkExperience/WorkExperience/WorkExperience.Server/obj/Debug/net10.0/compressed/qyjwhqu5tb-{0}-qovnesw5rb-qovnesw5rb.gz
+/Users/oroberts/Library/Mobile Documents/com~apple~CloudDocs/RDT/WorkExperience/WorkExperience/WorkExperience.Server/obj/Debug/net10.0/compressed/s7z50pshxl-{0}-luevd9t85z-luevd9t85z.gz
+/Users/oroberts/Library/Mobile Documents/com~apple~CloudDocs/RDT/WorkExperience/WorkExperience/WorkExperience.Server/obj/Debug/net10.0/compressed/3wqf99oqz3-{0}-dtptcverr8-dtptcverr8.gz
+/Users/oroberts/Library/Mobile Documents/com~apple~CloudDocs/RDT/WorkExperience/WorkExperience/WorkExperience.Server/obj/Debug/net10.0/compressed/yszmsekupy-{0}-9weoct0z2i-9weoct0z2i.gz
+/Users/oroberts/Library/Mobile Documents/com~apple~CloudDocs/RDT/WorkExperience/WorkExperience/WorkExperience.Server/obj/Debug/net10.0/compressed/dgv5c33uld-{0}-e1wz0a4vaa-e1wz0a4vaa.gz
+/Users/oroberts/Library/Mobile Documents/com~apple~CloudDocs/RDT/WorkExperience/WorkExperience/WorkExperience.Server/obj/Debug/net10.0/compressed/868xoosg6l-{0}-aqu2nm709y-aqu2nm709y.gz
+/Users/oroberts/Library/Mobile Documents/com~apple~CloudDocs/RDT/WorkExperience/WorkExperience/WorkExperience.Server/obj/Debug/net10.0/compressed/le5bbgk25m-{0}-gz3otmzdmh-gz3otmzdmh.gz
+/Users/oroberts/Library/Mobile Documents/com~apple~CloudDocs/RDT/WorkExperience/WorkExperience/WorkExperience.Server/obj/Debug/net10.0/compressed/l85hb2spsk-{0}-tqrty0tmzw-tqrty0tmzw.gz
+/Users/oroberts/Library/Mobile Documents/com~apple~CloudDocs/RDT/WorkExperience/WorkExperience/WorkExperience.Server/obj/Debug/net10.0/compressed/5don3mz0d7-{0}-y27veoecoa-y27veoecoa.gz
+/Users/oroberts/Library/Mobile Documents/com~apple~CloudDocs/RDT/WorkExperience/WorkExperience/WorkExperience.Server/obj/Debug/net10.0/compressed/jvatbsz93m-{0}-xstcb63tue-xstcb63tue.gz
+/Users/oroberts/Library/Mobile Documents/com~apple~CloudDocs/RDT/WorkExperience/WorkExperience/WorkExperience.Server/obj/Debug/net10.0/compressed/10xscuodna-{0}-q0l6q0ewmz-q0l6q0ewmz.gz
+/Users/oroberts/Library/Mobile Documents/com~apple~CloudDocs/RDT/WorkExperience/WorkExperience/WorkExperience.Server/obj/Debug/net10.0/compressed/gu5taimb06-{0}-k74afta5es-k74afta5es.gz
+/Users/oroberts/Library/Mobile Documents/com~apple~CloudDocs/RDT/WorkExperience/WorkExperience/WorkExperience.Server/obj/Debug/net10.0/compressed/299tffadvn-{0}-ifqok8el9x-ifqok8el9x.gz
+/Users/oroberts/Library/Mobile Documents/com~apple~CloudDocs/RDT/WorkExperience/WorkExperience/WorkExperience.Server/obj/Debug/net10.0/compressed/e387mq197c-{0}-qnwoc12ymk-qnwoc12ymk.gz
+/Users/oroberts/Library/Mobile Documents/com~apple~CloudDocs/RDT/WorkExperience/WorkExperience/WorkExperience.Server/obj/Debug/net10.0/compressed/fh9cpbpo6x-{0}-5fzkzofow3-5fzkzofow3.gz
+/Users/oroberts/Library/Mobile Documents/com~apple~CloudDocs/RDT/WorkExperience/WorkExperience/WorkExperience.Server/obj/Debug/net10.0/compressed/qw3c8jcjcc-{0}-s2obfpi55h-s2obfpi55h.gz
+/Users/oroberts/Library/Mobile Documents/com~apple~CloudDocs/RDT/WorkExperience/WorkExperience/WorkExperience.Server/obj/Debug/net10.0/compressed/ke7jzigyza-{0}-teny13t02e-teny13t02e.gz
+/Users/oroberts/Library/Mobile Documents/com~apple~CloudDocs/RDT/WorkExperience/WorkExperience/WorkExperience.Server/obj/Debug/net10.0/compressed/5ymll6lfzq-{0}-6kxqnuzan1-6kxqnuzan1.gz
+/Users/oroberts/Library/Mobile Documents/com~apple~CloudDocs/RDT/WorkExperience/WorkExperience/WorkExperience.Server/obj/Debug/net10.0/staticwebassets.build.json
+/Users/oroberts/Library/Mobile Documents/com~apple~CloudDocs/RDT/WorkExperience/WorkExperience/WorkExperience.Server/obj/Debug/net10.0/staticwebassets.build.json.cache
+/Users/oroberts/Library/Mobile Documents/com~apple~CloudDocs/RDT/WorkExperience/WorkExperience/WorkExperience.Server/obj/Debug/net10.0/staticwebassets.development.json
+/Users/oroberts/Library/Mobile Documents/com~apple~CloudDocs/RDT/WorkExperience/WorkExperience/WorkExperience.Server/obj/Debug/net10.0/staticwebassets.build.endpoints.json
+/Users/oroberts/Library/Mobile Documents/com~apple~CloudDocs/RDT/WorkExperience/WorkExperience/WorkExperience.Server/obj/Debug/net10.0/swae.build.ex.cache
+/Users/oroberts/Library/Mobile Documents/com~apple~CloudDocs/RDT/WorkExperience/WorkExperience/WorkExperience.Server/obj/Debug/net10.0/WorkExpe.F83A0C01.Up2Date
+/Users/oroberts/Library/Mobile Documents/com~apple~CloudDocs/RDT/WorkExperience/WorkExperience/WorkExperience.Server/obj/Debug/net10.0/WorkExperience.Server.dll
+/Users/oroberts/Library/Mobile Documents/com~apple~CloudDocs/RDT/WorkExperience/WorkExperience/WorkExperience.Server/obj/Debug/net10.0/refint/WorkExperience.Server.dll
+/Users/oroberts/Library/Mobile Documents/com~apple~CloudDocs/RDT/WorkExperience/WorkExperience/WorkExperience.Server/obj/Debug/net10.0/WorkExperience.Server.pdb
+/Users/oroberts/Library/Mobile Documents/com~apple~CloudDocs/RDT/WorkExperience/WorkExperience/WorkExperience.Server/obj/Debug/net10.0/WorkExperience.Server.genruntimeconfig.cache
+/Users/oroberts/Library/Mobile Documents/com~apple~CloudDocs/RDT/WorkExperience/WorkExperience/WorkExperience.Server/obj/Debug/net10.0/ref/WorkExperience.Server.dll
+/Users/oroberts/Library/Mobile Documents/com~apple~CloudDocs/RDT/WorkExperience/WorkExperience copy/WorkExperience.Server/bin/Debug/net10.0/appsettings.Development.json
+/Users/oroberts/Library/Mobile Documents/com~apple~CloudDocs/RDT/WorkExperience/WorkExperience copy/WorkExperience.Server/bin/Debug/net10.0/appsettings.json
+/Users/oroberts/Library/Mobile Documents/com~apple~CloudDocs/RDT/WorkExperience/WorkExperience copy/WorkExperience.Server/bin/Debug/net10.0/BlazorDebugProxy/BrowserDebugHost.dll
+/Users/oroberts/Library/Mobile Documents/com~apple~CloudDocs/RDT/WorkExperience/WorkExperience copy/WorkExperience.Server/bin/Debug/net10.0/BlazorDebugProxy/BrowserDebugHost.runtimeconfig.json
+/Users/oroberts/Library/Mobile Documents/com~apple~CloudDocs/RDT/WorkExperience/WorkExperience copy/WorkExperience.Server/bin/Debug/net10.0/BlazorDebugProxy/BrowserDebugProxy.dll
+/Users/oroberts/Library/Mobile Documents/com~apple~CloudDocs/RDT/WorkExperience/WorkExperience copy/WorkExperience.Server/bin/Debug/net10.0/BlazorDebugProxy/Microsoft.CodeAnalysis.CSharp.dll
+/Users/oroberts/Library/Mobile Documents/com~apple~CloudDocs/RDT/WorkExperience/WorkExperience copy/WorkExperience.Server/bin/Debug/net10.0/BlazorDebugProxy/Microsoft.CodeAnalysis.CSharp.Scripting.dll
+/Users/oroberts/Library/Mobile Documents/com~apple~CloudDocs/RDT/WorkExperience/WorkExperience copy/WorkExperience.Server/bin/Debug/net10.0/BlazorDebugProxy/Microsoft.CodeAnalysis.dll
+/Users/oroberts/Library/Mobile Documents/com~apple~CloudDocs/RDT/WorkExperience/WorkExperience copy/WorkExperience.Server/bin/Debug/net10.0/BlazorDebugProxy/Microsoft.CodeAnalysis.Scripting.dll
+/Users/oroberts/Library/Mobile Documents/com~apple~CloudDocs/RDT/WorkExperience/WorkExperience copy/WorkExperience.Server/bin/Debug/net10.0/BlazorDebugProxy/Microsoft.FileFormats.dll
+/Users/oroberts/Library/Mobile Documents/com~apple~CloudDocs/RDT/WorkExperience/WorkExperience copy/WorkExperience.Server/bin/Debug/net10.0/BlazorDebugProxy/Microsoft.NET.WebAssembly.Webcil.dll
+/Users/oroberts/Library/Mobile Documents/com~apple~CloudDocs/RDT/WorkExperience/WorkExperience copy/WorkExperience.Server/bin/Debug/net10.0/BlazorDebugProxy/Microsoft.SymbolStore.dll
+/Users/oroberts/Library/Mobile Documents/com~apple~CloudDocs/RDT/WorkExperience/WorkExperience copy/WorkExperience.Server/bin/Debug/net10.0/BlazorDebugProxy/Newtonsoft.Json.dll
+/Users/oroberts/Library/Mobile Documents/com~apple~CloudDocs/RDT/WorkExperience/WorkExperience copy/WorkExperience.Server/bin/Debug/net10.0/WorkExperience.Client.runtimeconfig.json
+/Users/oroberts/Library/Mobile Documents/com~apple~CloudDocs/RDT/WorkExperience/WorkExperience copy/WorkExperience.Server/bin/Debug/net10.0/WorkExperience.Client.staticwebassets.runtime.json
+/Users/oroberts/Library/Mobile Documents/com~apple~CloudDocs/RDT/WorkExperience/WorkExperience copy/WorkExperience.Server/bin/Debug/net10.0/WorkExperience.Client.staticwebassets.endpoints.json
+/Users/oroberts/Library/Mobile Documents/com~apple~CloudDocs/RDT/WorkExperience/WorkExperience copy/WorkExperience.Server/bin/Debug/net10.0/WorkExperience.Server.staticwebassets.runtime.json
+/Users/oroberts/Library/Mobile Documents/com~apple~CloudDocs/RDT/WorkExperience/WorkExperience copy/WorkExperience.Server/bin/Debug/net10.0/WorkExperience.Server.staticwebassets.endpoints.json
+/Users/oroberts/Library/Mobile Documents/com~apple~CloudDocs/RDT/WorkExperience/WorkExperience copy/WorkExperience.Server/bin/Debug/net10.0/WorkExperience.Server
+/Users/oroberts/Library/Mobile Documents/com~apple~CloudDocs/RDT/WorkExperience/WorkExperience copy/WorkExperience.Server/bin/Debug/net10.0/WorkExperience.Server.deps.json
+/Users/oroberts/Library/Mobile Documents/com~apple~CloudDocs/RDT/WorkExperience/WorkExperience copy/WorkExperience.Server/bin/Debug/net10.0/WorkExperience.Server.runtimeconfig.json
+/Users/oroberts/Library/Mobile Documents/com~apple~CloudDocs/RDT/WorkExperience/WorkExperience copy/WorkExperience.Server/bin/Debug/net10.0/WorkExperience.Server.dll
+/Users/oroberts/Library/Mobile Documents/com~apple~CloudDocs/RDT/WorkExperience/WorkExperience copy/WorkExperience.Server/bin/Debug/net10.0/WorkExperience.Server.pdb
+/Users/oroberts/Library/Mobile Documents/com~apple~CloudDocs/RDT/WorkExperience/WorkExperience copy/WorkExperience.Server/bin/Debug/net10.0/Blazorise.dll
+/Users/oroberts/Library/Mobile Documents/com~apple~CloudDocs/RDT/WorkExperience/WorkExperience copy/WorkExperience.Server/bin/Debug/net10.0/Blazorise.Bootstrap5.dll
+/Users/oroberts/Library/Mobile Documents/com~apple~CloudDocs/RDT/WorkExperience/WorkExperience copy/WorkExperience.Server/bin/Debug/net10.0/Blazorise.Components.dll
+/Users/oroberts/Library/Mobile Documents/com~apple~CloudDocs/RDT/WorkExperience/WorkExperience copy/WorkExperience.Server/bin/Debug/net10.0/Blazorise.FluentValidation.dll
+/Users/oroberts/Library/Mobile Documents/com~apple~CloudDocs/RDT/WorkExperience/WorkExperience copy/WorkExperience.Server/bin/Debug/net10.0/Blazorise.Icons.FontAwesome.dll
+/Users/oroberts/Library/Mobile Documents/com~apple~CloudDocs/RDT/WorkExperience/WorkExperience copy/WorkExperience.Server/bin/Debug/net10.0/Blazorise.Licensing.dll
+/Users/oroberts/Library/Mobile Documents/com~apple~CloudDocs/RDT/WorkExperience/WorkExperience copy/WorkExperience.Server/bin/Debug/net10.0/Blazorise.LoadingIndicator.dll
+/Users/oroberts/Library/Mobile Documents/com~apple~CloudDocs/RDT/WorkExperience/WorkExperience copy/WorkExperience.Server/bin/Debug/net10.0/Blazorise.Snackbar.dll
+/Users/oroberts/Library/Mobile Documents/com~apple~CloudDocs/RDT/WorkExperience/WorkExperience copy/WorkExperience.Server/bin/Debug/net10.0/FluentValidation.dll
+/Users/oroberts/Library/Mobile Documents/com~apple~CloudDocs/RDT/WorkExperience/WorkExperience copy/WorkExperience.Server/bin/Debug/net10.0/Microsoft.AspNetCore.Components.WebAssembly.dll
+/Users/oroberts/Library/Mobile Documents/com~apple~CloudDocs/RDT/WorkExperience/WorkExperience copy/WorkExperience.Server/bin/Debug/net10.0/Microsoft.AspNetCore.Components.WebAssembly.Server.dll
+/Users/oroberts/Library/Mobile Documents/com~apple~CloudDocs/RDT/WorkExperience/WorkExperience copy/WorkExperience.Server/bin/Debug/net10.0/Microsoft.JSInterop.WebAssembly.dll
+/Users/oroberts/Library/Mobile Documents/com~apple~CloudDocs/RDT/WorkExperience/WorkExperience copy/WorkExperience.Server/bin/Debug/net10.0/Microsoft.OpenApi.dll
+/Users/oroberts/Library/Mobile Documents/com~apple~CloudDocs/RDT/WorkExperience/WorkExperience copy/WorkExperience.Server/bin/Debug/net10.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/oroberts/Library/Mobile Documents/com~apple~CloudDocs/RDT/WorkExperience/WorkExperience copy/WorkExperience.Server/bin/Debug/net10.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/oroberts/Library/Mobile Documents/com~apple~CloudDocs/RDT/WorkExperience/WorkExperience copy/WorkExperience.Server/bin/Debug/net10.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/oroberts/Library/Mobile Documents/com~apple~CloudDocs/RDT/WorkExperience/WorkExperience copy/WorkExperience.Server/bin/Debug/net10.0/WorkExperience.Client.dll
+/Users/oroberts/Library/Mobile Documents/com~apple~CloudDocs/RDT/WorkExperience/WorkExperience copy/WorkExperience.Server/bin/Debug/net10.0/WorkExperience.Client.pdb
+/Users/oroberts/Library/Mobile Documents/com~apple~CloudDocs/RDT/WorkExperience/WorkExperience copy/WorkExperience.Server/obj/Debug/net10.0/WorkExperience.Server.csproj.AssemblyReference.cache
+/Users/oroberts/Library/Mobile Documents/com~apple~CloudDocs/RDT/WorkExperience/WorkExperience copy/WorkExperience.Server/obj/Debug/net10.0/rpswa.dswa.cache.json
+/Users/oroberts/Library/Mobile Documents/com~apple~CloudDocs/RDT/WorkExperience/WorkExperience copy/WorkExperience.Server/obj/Debug/net10.0/WorkExperience.Server.GeneratedMSBuildEditorConfig.editorconfig
+/Users/oroberts/Library/Mobile Documents/com~apple~CloudDocs/RDT/WorkExperience/WorkExperience copy/WorkExperience.Server/obj/Debug/net10.0/WorkExperience.Server.AssemblyInfoInputs.cache
+/Users/oroberts/Library/Mobile Documents/com~apple~CloudDocs/RDT/WorkExperience/WorkExperience copy/WorkExperience.Server/obj/Debug/net10.0/WorkExperience.Server.AssemblyInfo.cs
+/Users/oroberts/Library/Mobile Documents/com~apple~CloudDocs/RDT/WorkExperience/WorkExperience copy/WorkExperience.Server/obj/Debug/net10.0/WorkExperience.Server.csproj.CoreCompileInputs.cache
+/Users/oroberts/Library/Mobile Documents/com~apple~CloudDocs/RDT/WorkExperience/WorkExperience copy/WorkExperience.Server/obj/Debug/net10.0/WorkExperience.Server.MvcApplicationPartsAssemblyInfo.cs
+/Users/oroberts/Library/Mobile Documents/com~apple~CloudDocs/RDT/WorkExperience/WorkExperience copy/WorkExperience.Server/obj/Debug/net10.0/WorkExperience.Server.MvcApplicationPartsAssemblyInfo.cache
+/Users/oroberts/Library/Mobile Documents/com~apple~CloudDocs/RDT/WorkExperience/WorkExperience copy/WorkExperience.Server/obj/Debug/net10.0/rjimswa.dswa.cache.json
+/Users/oroberts/Library/Mobile Documents/com~apple~CloudDocs/RDT/WorkExperience/WorkExperience copy/WorkExperience.Server/obj/Debug/net10.0/rjsmrazor.dswa.cache.json
+/Users/oroberts/Library/Mobile Documents/com~apple~CloudDocs/RDT/WorkExperience/WorkExperience copy/WorkExperience.Server/obj/Debug/net10.0/rjsmcshtml.dswa.cache.json
+/Users/oroberts/Library/Mobile Documents/com~apple~CloudDocs/RDT/WorkExperience/WorkExperience copy/WorkExperience.Server/obj/Debug/net10.0/jsmodules/jsmodules.build.manifest.json
+/Users/oroberts/Library/Mobile Documents/com~apple~CloudDocs/RDT/WorkExperience/WorkExperience copy/WorkExperience.Server/obj/Debug/net10.0/scopedcss/bundle/WorkExperience.Server.styles.css
+/Users/oroberts/Library/Mobile Documents/com~apple~CloudDocs/RDT/WorkExperience/WorkExperience copy/WorkExperience.Server/obj/Debug/net10.0/compressed/gaui1z37so-{0}-phgpcgnw7u-phgpcgnw7u.gz
+/Users/oroberts/Library/Mobile Documents/com~apple~CloudDocs/RDT/WorkExperience/WorkExperience copy/WorkExperience.Server/obj/Debug/net10.0/compressed/mxrobteb8q-{0}-0rup0t2eqz-0rup0t2eqz.gz
+/Users/oroberts/Library/Mobile Documents/com~apple~CloudDocs/RDT/WorkExperience/WorkExperience copy/WorkExperience.Server/obj/Debug/net10.0/compressed/cw1qb95rm2-{0}-id0t3r0t65-id0t3r0t65.gz
+/Users/oroberts/Library/Mobile Documents/com~apple~CloudDocs/RDT/WorkExperience/WorkExperience copy/WorkExperience.Server/obj/Debug/net10.0/compressed/c6dzolm4jo-{0}-edftkvihsy-edftkvihsy.gz
+/Users/oroberts/Library/Mobile Documents/com~apple~CloudDocs/RDT/WorkExperience/WorkExperience copy/WorkExperience.Server/obj/Debug/net10.0/compressed/tnh13keuno-{0}-fhfndkf66a-fhfndkf66a.gz
+/Users/oroberts/Library/Mobile Documents/com~apple~CloudDocs/RDT/WorkExperience/WorkExperience copy/WorkExperience.Server/obj/Debug/net10.0/compressed/6uz3w87r3n-{0}-mf2m76trrc-mf2m76trrc.gz
+/Users/oroberts/Library/Mobile Documents/com~apple~CloudDocs/RDT/WorkExperience/WorkExperience copy/WorkExperience.Server/obj/Debug/net10.0/compressed/kt47rct1i8-{0}-v0tnmsmjzg-v0tnmsmjzg.gz
+/Users/oroberts/Library/Mobile Documents/com~apple~CloudDocs/RDT/WorkExperience/WorkExperience copy/WorkExperience.Server/obj/Debug/net10.0/compressed/3nmuv7gk71-{0}-kxl4mbvj6t-kxl4mbvj6t.gz
+/Users/oroberts/Library/Mobile Documents/com~apple~CloudDocs/RDT/WorkExperience/WorkExperience copy/WorkExperience.Server/obj/Debug/net10.0/compressed/v2go4wikce-{0}-qtm6wgjndc-qtm6wgjndc.gz
+/Users/oroberts/Library/Mobile Documents/com~apple~CloudDocs/RDT/WorkExperience/WorkExperience copy/WorkExperience.Server/obj/Debug/net10.0/compressed/m0qplqijzd-{0}-0valnhcveq-0valnhcveq.gz
+/Users/oroberts/Library/Mobile Documents/com~apple~CloudDocs/RDT/WorkExperience/WorkExperience copy/WorkExperience.Server/obj/Debug/net10.0/compressed/1msd00v79j-{0}-xp1cezqwri-xp1cezqwri.gz
+/Users/oroberts/Library/Mobile Documents/com~apple~CloudDocs/RDT/WorkExperience/WorkExperience copy/WorkExperience.Server/obj/Debug/net10.0/compressed/5zp9jtq1qf-{0}-32uw4ox8lb-32uw4ox8lb.gz
+/Users/oroberts/Library/Mobile Documents/com~apple~CloudDocs/RDT/WorkExperience/WorkExperience copy/WorkExperience.Server/obj/Debug/net10.0/compressed/czqfo1xsjr-{0}-bu9m185cvd-bu9m185cvd.gz
+/Users/oroberts/Library/Mobile Documents/com~apple~CloudDocs/RDT/WorkExperience/WorkExperience copy/WorkExperience.Server/obj/Debug/net10.0/compressed/gd43exgjdu-{0}-jpt4u823i0-jpt4u823i0.gz
+/Users/oroberts/Library/Mobile Documents/com~apple~CloudDocs/RDT/WorkExperience/WorkExperience copy/WorkExperience.Server/obj/Debug/net10.0/compressed/cupdfacrup-{0}-q2uxboq5fc-q2uxboq5fc.gz
+/Users/oroberts/Library/Mobile Documents/com~apple~CloudDocs/RDT/WorkExperience/WorkExperience copy/WorkExperience.Server/obj/Debug/net10.0/compressed/n00pwwa90n-{0}-s3bar82f1q-s3bar82f1q.gz
+/Users/oroberts/Library/Mobile Documents/com~apple~CloudDocs/RDT/WorkExperience/WorkExperience copy/WorkExperience.Server/obj/Debug/net10.0/compressed/yv3r1kifkn-{0}-s1nsmqqjya-s1nsmqqjya.gz
+/Users/oroberts/Library/Mobile Documents/com~apple~CloudDocs/RDT/WorkExperience/WorkExperience copy/WorkExperience.Server/obj/Debug/net10.0/compressed/g7jqtvzvwk-{0}-k67o7wyxcx-k67o7wyxcx.gz
+/Users/oroberts/Library/Mobile Documents/com~apple~CloudDocs/RDT/WorkExperience/WorkExperience copy/WorkExperience.Server/obj/Debug/net10.0/compressed/ierbjfsdxp-{0}-dkimrx166s-dkimrx166s.gz
+/Users/oroberts/Library/Mobile Documents/com~apple~CloudDocs/RDT/WorkExperience/WorkExperience copy/WorkExperience.Server/obj/Debug/net10.0/compressed/d3d48x6c6u-{0}-7mew5qey9y-7mew5qey9y.gz
+/Users/oroberts/Library/Mobile Documents/com~apple~CloudDocs/RDT/WorkExperience/WorkExperience copy/WorkExperience.Server/obj/Debug/net10.0/compressed/h2bffqmvww-{0}-0l009cx99s-0l009cx99s.gz
+/Users/oroberts/Library/Mobile Documents/com~apple~CloudDocs/RDT/WorkExperience/WorkExperience copy/WorkExperience.Server/obj/Debug/net10.0/compressed/0ip0cn01pl-{0}-o7l5gg8a1w-o7l5gg8a1w.gz
+/Users/oroberts/Library/Mobile Documents/com~apple~CloudDocs/RDT/WorkExperience/WorkExperience copy/WorkExperience.Server/obj/Debug/net10.0/compressed/yr1uxgfav1-{0}-czg09m7fbw-czg09m7fbw.gz
+/Users/oroberts/Library/Mobile Documents/com~apple~CloudDocs/RDT/WorkExperience/WorkExperience copy/WorkExperience.Server/obj/Debug/net10.0/compressed/3vtyy7ztlp-{0}-9sjnuohl93-9sjnuohl93.gz
+/Users/oroberts/Library/Mobile Documents/com~apple~CloudDocs/RDT/WorkExperience/WorkExperience copy/WorkExperience.Server/obj/Debug/net10.0/compressed/xkzm15a7rz-{0}-qgmopykj85-qgmopykj85.gz
+/Users/oroberts/Library/Mobile Documents/com~apple~CloudDocs/RDT/WorkExperience/WorkExperience copy/WorkExperience.Server/obj/Debug/net10.0/compressed/rd6qfbgcha-{0}-rdf588x9o3-rdf588x9o3.gz
+/Users/oroberts/Library/Mobile Documents/com~apple~CloudDocs/RDT/WorkExperience/WorkExperience copy/WorkExperience.Server/obj/Debug/net10.0/compressed/wt9grvv92r-{0}-4rmwhz9udx-4rmwhz9udx.gz
+/Users/oroberts/Library/Mobile Documents/com~apple~CloudDocs/RDT/WorkExperience/WorkExperience copy/WorkExperience.Server/obj/Debug/net10.0/compressed/tr09a0cfpg-{0}-cs38ynhyrk-cs38ynhyrk.gz
+/Users/oroberts/Library/Mobile Documents/com~apple~CloudDocs/RDT/WorkExperience/WorkExperience copy/WorkExperience.Server/obj/Debug/net10.0/compressed/bwhf9i0xrj-{0}-k77rf775v5-k77rf775v5.gz
+/Users/oroberts/Library/Mobile Documents/com~apple~CloudDocs/RDT/WorkExperience/WorkExperience copy/WorkExperience.Server/obj/Debug/net10.0/compressed/t0gn83llmv-{0}-edp1606bnc-edp1606bnc.gz
+/Users/oroberts/Library/Mobile Documents/com~apple~CloudDocs/RDT/WorkExperience/WorkExperience copy/WorkExperience.Server/obj/Debug/net10.0/compressed/ls076u4d3j-{0}-2wlo7snjy4-2wlo7snjy4.gz
+/Users/oroberts/Library/Mobile Documents/com~apple~CloudDocs/RDT/WorkExperience/WorkExperience copy/WorkExperience.Server/obj/Debug/net10.0/compressed/0rzts9d44c-{0}-5mbjrq4df3-5mbjrq4df3.gz
+/Users/oroberts/Library/Mobile Documents/com~apple~CloudDocs/RDT/WorkExperience/WorkExperience copy/WorkExperience.Server/obj/Debug/net10.0/compressed/ax5viny23p-{0}-m189u628rl-m189u628rl.gz
+/Users/oroberts/Library/Mobile Documents/com~apple~CloudDocs/RDT/WorkExperience/WorkExperience copy/WorkExperience.Server/obj/Debug/net10.0/compressed/c4jog3xkz4-{0}-pybrzh7rdh-pybrzh7rdh.gz
+/Users/oroberts/Library/Mobile Documents/com~apple~CloudDocs/RDT/WorkExperience/WorkExperience copy/WorkExperience.Server/obj/Debug/net10.0/compressed/qyjwhqu5tb-{0}-qovnesw5rb-qovnesw5rb.gz
+/Users/oroberts/Library/Mobile Documents/com~apple~CloudDocs/RDT/WorkExperience/WorkExperience copy/WorkExperience.Server/obj/Debug/net10.0/compressed/s7z50pshxl-{0}-luevd9t85z-luevd9t85z.gz
+/Users/oroberts/Library/Mobile Documents/com~apple~CloudDocs/RDT/WorkExperience/WorkExperience copy/WorkExperience.Server/obj/Debug/net10.0/compressed/3wqf99oqz3-{0}-dtptcverr8-dtptcverr8.gz
+/Users/oroberts/Library/Mobile Documents/com~apple~CloudDocs/RDT/WorkExperience/WorkExperience copy/WorkExperience.Server/obj/Debug/net10.0/compressed/yszmsekupy-{0}-9weoct0z2i-9weoct0z2i.gz
+/Users/oroberts/Library/Mobile Documents/com~apple~CloudDocs/RDT/WorkExperience/WorkExperience copy/WorkExperience.Server/obj/Debug/net10.0/compressed/dgv5c33uld-{0}-e1wz0a4vaa-e1wz0a4vaa.gz
+/Users/oroberts/Library/Mobile Documents/com~apple~CloudDocs/RDT/WorkExperience/WorkExperience copy/WorkExperience.Server/obj/Debug/net10.0/compressed/868xoosg6l-{0}-aqu2nm709y-aqu2nm709y.gz
+/Users/oroberts/Library/Mobile Documents/com~apple~CloudDocs/RDT/WorkExperience/WorkExperience copy/WorkExperience.Server/obj/Debug/net10.0/compressed/le5bbgk25m-{0}-gz3otmzdmh-gz3otmzdmh.gz
+/Users/oroberts/Library/Mobile Documents/com~apple~CloudDocs/RDT/WorkExperience/WorkExperience copy/WorkExperience.Server/obj/Debug/net10.0/compressed/l85hb2spsk-{0}-tqrty0tmzw-tqrty0tmzw.gz
+/Users/oroberts/Library/Mobile Documents/com~apple~CloudDocs/RDT/WorkExperience/WorkExperience copy/WorkExperience.Server/obj/Debug/net10.0/compressed/5don3mz0d7-{0}-y27veoecoa-y27veoecoa.gz
+/Users/oroberts/Library/Mobile Documents/com~apple~CloudDocs/RDT/WorkExperience/WorkExperience copy/WorkExperience.Server/obj/Debug/net10.0/compressed/jvatbsz93m-{0}-xstcb63tue-xstcb63tue.gz
+/Users/oroberts/Library/Mobile Documents/com~apple~CloudDocs/RDT/WorkExperience/WorkExperience copy/WorkExperience.Server/obj/Debug/net10.0/compressed/10xscuodna-{0}-q0l6q0ewmz-q0l6q0ewmz.gz
+/Users/oroberts/Library/Mobile Documents/com~apple~CloudDocs/RDT/WorkExperience/WorkExperience copy/WorkExperience.Server/obj/Debug/net10.0/compressed/gu5taimb06-{0}-k74afta5es-k74afta5es.gz
+/Users/oroberts/Library/Mobile Documents/com~apple~CloudDocs/RDT/WorkExperience/WorkExperience copy/WorkExperience.Server/obj/Debug/net10.0/compressed/299tffadvn-{0}-ifqok8el9x-ifqok8el9x.gz
+/Users/oroberts/Library/Mobile Documents/com~apple~CloudDocs/RDT/WorkExperience/WorkExperience copy/WorkExperience.Server/obj/Debug/net10.0/compressed/e387mq197c-{0}-qnwoc12ymk-qnwoc12ymk.gz
+/Users/oroberts/Library/Mobile Documents/com~apple~CloudDocs/RDT/WorkExperience/WorkExperience copy/WorkExperience.Server/obj/Debug/net10.0/compressed/fh9cpbpo6x-{0}-5fzkzofow3-5fzkzofow3.gz
+/Users/oroberts/Library/Mobile Documents/com~apple~CloudDocs/RDT/WorkExperience/WorkExperience copy/WorkExperience.Server/obj/Debug/net10.0/compressed/qw3c8jcjcc-{0}-s2obfpi55h-s2obfpi55h.gz
+/Users/oroberts/Library/Mobile Documents/com~apple~CloudDocs/RDT/WorkExperience/WorkExperience copy/WorkExperience.Server/obj/Debug/net10.0/compressed/ke7jzigyza-{0}-teny13t02e-teny13t02e.gz
+/Users/oroberts/Library/Mobile Documents/com~apple~CloudDocs/RDT/WorkExperience/WorkExperience copy/WorkExperience.Server/obj/Debug/net10.0/compressed/5ymll6lfzq-{0}-6kxqnuzan1-6kxqnuzan1.gz
+/Users/oroberts/Library/Mobile Documents/com~apple~CloudDocs/RDT/WorkExperience/WorkExperience copy/WorkExperience.Server/obj/Debug/net10.0/staticwebassets.build.json
+/Users/oroberts/Library/Mobile Documents/com~apple~CloudDocs/RDT/WorkExperience/WorkExperience copy/WorkExperience.Server/obj/Debug/net10.0/staticwebassets.build.json.cache
+/Users/oroberts/Library/Mobile Documents/com~apple~CloudDocs/RDT/WorkExperience/WorkExperience copy/WorkExperience.Server/obj/Debug/net10.0/staticwebassets.development.json
+/Users/oroberts/Library/Mobile Documents/com~apple~CloudDocs/RDT/WorkExperience/WorkExperience copy/WorkExperience.Server/obj/Debug/net10.0/staticwebassets.build.endpoints.json
+/Users/oroberts/Library/Mobile Documents/com~apple~CloudDocs/RDT/WorkExperience/WorkExperience copy/WorkExperience.Server/obj/Debug/net10.0/swae.build.ex.cache
+/Users/oroberts/Library/Mobile Documents/com~apple~CloudDocs/RDT/WorkExperience/WorkExperience copy/WorkExperience.Server/obj/Debug/net10.0/WorkExpe.F83A0C01.Up2Date
+/Users/oroberts/Library/Mobile Documents/com~apple~CloudDocs/RDT/WorkExperience/WorkExperience copy/WorkExperience.Server/obj/Debug/net10.0/WorkExperience.Server.dll
+/Users/oroberts/Library/Mobile Documents/com~apple~CloudDocs/RDT/WorkExperience/WorkExperience copy/WorkExperience.Server/obj/Debug/net10.0/refint/WorkExperience.Server.dll
+/Users/oroberts/Library/Mobile Documents/com~apple~CloudDocs/RDT/WorkExperience/WorkExperience copy/WorkExperience.Server/obj/Debug/net10.0/WorkExperience.Server.pdb
+/Users/oroberts/Library/Mobile Documents/com~apple~CloudDocs/RDT/WorkExperience/WorkExperience copy/WorkExperience.Server/obj/Debug/net10.0/WorkExperience.Server.genruntimeconfig.cache
+/Users/oroberts/Library/Mobile Documents/com~apple~CloudDocs/RDT/WorkExperience/WorkExperience copy/WorkExperience.Server/obj/Debug/net10.0/ref/WorkExperience.Server.dll
