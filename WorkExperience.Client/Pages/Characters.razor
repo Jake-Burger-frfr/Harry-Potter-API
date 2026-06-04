@@ -17,12 +17,20 @@
 
 <div class="button-row">
     <button class="@(student ? "active" : string.Empty)"
-            @onclick="() => student = !student">
+            @onclick="() => 
+            {
+                student = !student;
+                staff = false;
+            }">
         Student
     </button>
 
     <button class="@(staff ? "active" : string.Empty)"
-            @onclick="() => staff = !staff">
+            @onclick="() =>
+            {
+            staff = !staff;
+            student = false;
+            }">
         Staff
     </button>
 
