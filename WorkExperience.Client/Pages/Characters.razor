@@ -16,36 +16,36 @@
 </div>
 
 <div class="button-row">
-    <button class="@(student ? "active" : "")"
+    <button class="@(student ? "active" : string.Empty)"
             @onclick="() => student = !student">
         Student
     </button>
 
-    <button class="@(staff ? "active" : "")"
+    <button class="@(staff ? "active" : string.Empty)"
             @onclick="() => staff = !staff">
         Staff
     </button>
 
-    <button class="@(gryffindor ? "active" : "")"
+    <button class="@(gryffindor ? "active" : string.Empty)"
             @onclick="() => gryffindor = !gryffindor">
         Gryffindor
     </button>
 
-    <button class="@(slytherin ? "active" : "")"
+    <button class="@(slytherin ? "active" : string.Empty)"
             @onclick="() => slytherin = !slytherin">
         Slytherin
     </button>
     
-    <button class="@(hufflepuff ? "active" : "")"
+    <button class="@(hufflepuff ? "active" : string.Empty)"
             @onclick="() => hufflepuff = !hufflepuff ">
         Hufflepuff 
     </button>
     
-    <button class="@(ravenclaw ? "active" : "")"
+    <button class="@(ravenclaw ? "active" : string.Empty)"
             @onclick="() => ravenclaw = !ravenclaw ">
         Ravenclaw 
     </button>
-     <button class="@(houseless ? "active" : "")"
+     <button class="@(houseless ? "active" : string.Empty)"
             @onclick="() => houseless = !houseless ">
         Houseless 
     </button>
