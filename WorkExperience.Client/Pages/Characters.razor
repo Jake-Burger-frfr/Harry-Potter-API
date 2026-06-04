@@ -26,22 +26,22 @@
         Staff
     </button>
 
-    <button class="@(gryffindor ? "active" : string.Empty)"
+    <button class="@(gryffindor ? "active gryffindor" : string.Empty)"
             @onclick="() => gryffindor = !gryffindor">
         Gryffindor
     </button>
 
-    <button class="@(slytherin ? "active" : string.Empty)"
+    <button class="@(slytherin ? "active slytherin" : string.Empty)"
             @onclick="() => slytherin = !slytherin">
         Slytherin
     </button>
     
-    <button class="@(hufflepuff ? "active" : string.Empty)"
+    <button class="@(hufflepuff ? "active hufflepuff" : string.Empty)"
             @onclick="() => hufflepuff = !hufflepuff ">
         Hufflepuff 
     </button>
     
-    <button class="@(ravenclaw ? "active" : string.Empty)"
+    <button class="@(ravenclaw ? "active ravenclaw" : string.Empty)"
             @onclick="() => ravenclaw = !ravenclaw ">
         Ravenclaw 
     </button>
@@ -332,7 +332,23 @@
         }
 
         .active {
-            background-color: blue;
+            background-color: #111111;
+            color: white;
+        }
+        .active.gryffindor {
+            background-color: #740001;
+            color: white;
+        }
+        .active.slytherin {
+            background-color: #1a472a;
+            color: white;
+        }
+        .active.hufflepuff {
+            background-color: #0e1a40;
+            color: white;
+        }
+       .active.ravenclaw {
+            background-color: #ecb939;
             color: white;
         }
 </style>
