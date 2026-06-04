@@ -10,7 +10,10 @@
     <Field Horizontal>
         <FieldLabel ColumnSize="ColumnSize.Is1">Spell:</FieldLabel>
         <FieldBody ColumnSize="ColumnSize.Is4">
-            <input class="form-control" placeholder="Search" @bind="SpellSearchText" @bind:event="oninput"/>
+            <div class="d-flex gap-2">
+                <input class="form-control" placeholder="Search" @bind="SpellSearchText" @bind:event="oninput"/>
+                <button class="button @(UnforgivableCurses ? "button active" : string.Empty)" @onclick="@(() => UnforgivableCurses = !UnforgivableCurses)">Unforgivable Curses</button>
+            </div>
         </FieldBody>
     </Field>
 </div>
@@ -50,28 +53,59 @@
 
 @code {
     private List<Spell> SpellList { get; set; } = new List<Spell>();
+    
+    private bool UnforgivableCurses = false;
 
     private string SpellSearchText = string.Empty;
 
     private bool isLoading;
-
+    
     protected override async Task OnInitializedAsync()
     {
         isLoading = true;
         SpellList = await HarryPotterService.GetSpellsAsync();
         isLoading = false;
     }
+
     private IEnumerable<Spell> FilteredSpells
     {
         get
         {
+            var spells = SpellList.AsEnumerable();
+
+            if (UnforgivableCurses)
+            {
+                spells = spells.Where(spell =>
+                    spell.Description?.Contains("Unforgivable", StringComparison.OrdinalIgnoreCase) == true);
+            }
             if (string.IsNullOrWhiteSpace(SpellSearchText))
             {
-                return SpellList;
+                return spells;
             }
-            return SpellList.Where(spell =>
+
+            return spells.Where(spell =>
                 (spell.Name?.Contains(SpellSearchText, StringComparison.OrdinalIgnoreCase) == true) ||
                 (spell.Description?.Contains(SpellSearchText, StringComparison.OrdinalIgnoreCase) == true));
         }
     }
+}
+
+@{
+    <style scoped>
+        .button {
+            background-color: white;
+            border: 0.5px solid;
+            border-color: lightgrey;
+            border-radius: 6px;
+            border-width: 2px;
+            color: grey;
+            text-align: center;
+            text-decoration: none;
+            display: inline-block;
+        }
+        .active {
+            color: black;
+            background-color: lightgrey
+        }
+    </style>
 }

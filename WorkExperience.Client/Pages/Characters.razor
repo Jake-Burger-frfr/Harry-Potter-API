@@ -109,13 +109,27 @@
 
     private Dictionary<string, string> CharacterFilters = new Dictionary<string, string>
     {
-            {"All", "characters"},
-            {"Students", "characters/students"},
-            {"Staff", "characters/staff"},
-            {"Gryffindor", "characters/house/gryffindor"},
-            {"Slytherin", "characters/house/slytherin"},
-            {"Ravenclaw", "characters/house/ravenclaw"},
-            {"Hufflepuff", "characters/house/hufflepuff"}
+            {
+                "All", "characters"
+            },
+            {
+                "Students", "characters/students"}
+                ,
+            {
+                "Staff", "characters/staff"
+            },
+            {
+                "Gryffindor", "characters/house/gryffindor"
+            },
+            {
+                "Slytherin", "characters/house/slytherin"
+            },
+            {
+                "Ravenclaw", "characters/house/ravenclaw"
+            },
+            {
+                "Hufflepuff", "characters/house/hufflepuff"
+            }
     };
 
     private async Task ToggleFilter(string filter)

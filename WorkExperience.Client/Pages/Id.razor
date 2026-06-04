@@ -4,6 +4,7 @@
 @using WorkExperience.Client.Core.Services
 @inject HarryPotterService HarryPotterService
 
+
 <h1><b>Character ID Finder</b></h1>
 
 <div class="search-field">
@@ -17,7 +18,7 @@
 
 <LoadingIndicator @bind-Visible="@IsLoading"></LoadingIndicator>
 
-@if (!string.IsNullOrWhiteSpace(IDSearchText))
+@if (HasSearched)
 {
     <div class="card-grid">
         <div class="card-border">
@@ -80,7 +81,7 @@
                                 </CardText>
                             </CardBody>
                         </div>
-                    </div>
+                    </div>  
                 </Card>
             </div>
     </div>
@@ -89,12 +90,36 @@
 @code {
     private const string DefaultImageUrl = "https://img.freepik.com/premium-vector/witch-s-broom-silhouette-isolated-white-background-traditional-halloween-decorative-element_502505-561.jpg";
 
+    private Dictionary<string, string> CharacterIDs = new();
+    
+    private List<Character> CharacterList { get; set; } = new();
+    
+    private int ID = 1;
+
+        private Task AssignCharacaterIDs()
+    {
+        foreach(Character character in CharacterList)
+        {
+            CharacterIDs[ID.ToString()] = character.Id;
+            ID = ID + 1;
+        }
+        return Task.CompletedTask;
+    }   
+
+    protected override async Task OnInitializedAsync()
+    {
+        CharacterList = await HarryPotterService.GetCharactersAsync("characters");
+        await AssignCharacaterIDs();
+    }
+
     private Character character = new Character();
     private List<Character> characters = new List<Character>();
 
     private string IDSearchText = string.Empty;
 
     private bool IsLoading;
+
+    private bool HasSearched = false;
 
     private async Task OnKeyDown(KeyboardEventArgs e)
     {
@@ -106,12 +131,14 @@
 
     private async Task IDSearchChanged()
     {
+        HasSearched = true;
+
         if (!string.IsNullOrEmpty(IDSearchText))
         {
             IsLoading = true;
             try
             {
-                characters = await HarryPotterService.GetCharactersAsync($"character/{IDSearchText}");
+                characters = await HarryPotterService.GetCharactersAsync($"character/{CharacterIDs[IDSearchText]}");
                 character = characters[0];
             }
             catch
