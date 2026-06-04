@@ -12,12 +12,13 @@
         <FieldBody ColumnSize="ColumnSize.Is8">
             <div class="d-flex gap-2">
                 <input class="form-control" placeholder="Search" @bind="CharacterSearchText" @bind:event="oninput" />
-                <button class="button @((CurrentCharacterFilter == "Students") ? "button active" : string.Empty)" @onclick="@(() => ToggleFilter("Students"))">Students</button>
-                <button class="button @((CurrentCharacterFilter == "Staff") ?  "button active" : string.Empty)" @onclick="@(() => ToggleFilter("Staff"))">Staff</button>
-                <button class="button @((CurrentCharacterFilter == "Gryffindor") ? "button gryffindor" : string.Empty)" @onclick="@(() => ToggleFilter("Gryffindor"))">Gryffindor</button>
-                <button class="button @((CurrentCharacterFilter == "Slytherin") ? "button slytherin" : string.Empty)" @onclick="@(() => ToggleFilter("Slytherin"))">Slytherin</button>
-                <button class="button @((CurrentCharacterFilter == "Ravenclaw") ? "button ravenclaw" : string.Empty)" @onclick="@(() => ToggleFilter("Ravenclaw"))">Ravenclaw</button>
-                <button class="button @((CurrentCharacterFilter == "Hufflepuff") ? "button hufflepuff" : string.Empty)" @onclick="@(() => ToggleFilter("Hufflepuff"))">Hufflepuff</button>
+                <button class="button @((CurrentCharacterFilter == "Students") ? "button active" : string.Empty)" @onclick="@(async () => { await ToggleFilter("Students"); await RefreshCharacters(); })">Students</button>
+                <button class="button @((CurrentCharacterFilter == "Staff") ?  "button active" : string.Empty)" @onclick="@(async () => { await ToggleFilter("Staff"); await RefreshCharacters(); })">Staff</button>
+                <p></p><p></p><p></p>
+                <button class="button @((CurrentHouseFilter == "Gryffindor") ? "button gryffindor" : string.Empty)" @onclick="@(async () => { await ToggleHouse("Gryffindor"); await RefreshCharacters(); })">Gryffindor</button>
+                <button class="button @((CurrentHouseFilter == "Slytherin") ? "button slytherin" : string.Empty)" @onclick="@(async() => { await ToggleHouse("Slytherin"); await RefreshCharacters(); })">Slytherin</button>
+                <button class="button @((CurrentHouseFilter == "Ravenclaw") ? "button ravenclaw" : string.Empty)" @onclick="@(async() => { await ToggleHouse("Ravenclaw"); await RefreshCharacters(); })">Ravenclaw</button>
+                <button class="button @((CurrentHouseFilter == "Hufflepuff") ? "button hufflepuff" : string.Empty)" @onclick="@(async() => { await ToggleHouse("Hufflepuff"); await RefreshCharacters(); })">Hufflepuff</button>
             </div>
         </FieldBody>
     </Field>
@@ -117,20 +118,10 @@
                 ,
             {
                 "Staff", "characters/staff"
-            },
-            {
-                "Gryffindor", "characters/house/gryffindor"
-            },
-            {
-                "Slytherin", "characters/house/slytherin"
-            },
-            {
-                "Ravenclaw", "characters/house/ravenclaw"
-            },
-            {
-                "Hufflepuff", "characters/house/hufflepuff"
             }
     };
+
+    private string CurrentHouseFilter = "";
 
     private async Task ToggleFilter(string filter)
     {
@@ -142,9 +133,30 @@
         {
             CurrentCharacterFilter = filter;
         }
-            IsLoading = true;
-            CharacterList = await HarryPotterService.GetCharactersAsync(CharacterFilters[CurrentCharacterFilter]);
-            IsLoading = false;
+    }
+
+    private async Task ToggleHouse(string filter)
+    {
+        if (CurrentHouseFilter == filter)
+        {
+            CurrentHouseFilter = "";
+        }
+        else
+        {
+            CurrentHouseFilter = filter;
+        }
+    }
+
+    private async Task RefreshCharacters()
+    {
+        IsLoading = true;
+        CharacterList = await HarryPotterService.GetCharactersAsync(CharacterFilters[CurrentCharacterFilter]);
+        if (CurrentHouseFilter != "")
+        {
+            CharacterList = CharacterList.Where(character => 
+            character.House?.Contains(CurrentHouseFilter, StringComparison.OrdinalIgnoreCase) == true).ToList();
+        }
+        IsLoading = false;
     }
 
     protected override async Task OnInitializedAsync()

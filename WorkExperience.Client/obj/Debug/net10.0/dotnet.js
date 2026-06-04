@@ -5,7 +5,7 @@ var e=!1;const t=async()=>WebAssembly.validate(new Uint8Array([0,97,115,109,1,0,
   "mainAssemblyName": "WorkExperience.Client",
   "applicationEnvironment": "Development",
   "resources": {
-    "hash": "sha256-q2hk8PukD0bSDrqjCmAOVKL3Pz0y4vJQlVuArRXOUq0=",
+    "hash": "sha256-A3kwRgPkQQyz49GA5Vh/e7QNUviaumCVNkLsXgK9ObI=",
     "jsModuleNative": [
       {
         "name": "dotnet.native.rjbmzc4jpg.js"
@@ -1296,16 +1296,16 @@ var e=!1;const t=async()=>WebAssembly.validate(new Uint8Array([0,97,115,109,1,0,
       },
       {
         "virtualPath": "WorkExperience.Client.wasm",
-        "name": "WorkExperience.Client.nonxhaiodt.wasm",
-        "hash": "sha256-Jy9cVFv9DjVDVwLMlMShBCJIGpploC1LHyrHzrE3TkY=",
+        "name": "WorkExperience.Client.jdzpavkk7m.wasm",
+        "hash": "sha256-qRo6IMjvPrWDSLJBIHuKx9G3xC4wRe//0nqa7Neh2T4=",
         "cache": "force-cache"
       }
     ],
     "pdb": [
       {
         "virtualPath": "WorkExperience.Client.pdb",
-        "name": "WorkExperience.Client.8s9qij5m6z.pdb",
-        "hash": "sha256-+P1OjhDTZ/q9gOnesbG3EjnevrDpSvHzyBeZdfLEN/s=",
+        "name": "WorkExperience.Client.3sg4omfnhz.pdb",
+        "hash": "sha256-8w0rZ8qMTxQeWfKQxDTvpRXHKZihT4goNT7CjtSaNpI=",
         "cache": "force-cache"
       }
     ],
