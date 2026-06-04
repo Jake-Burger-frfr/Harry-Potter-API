@@ -232,3 +232,4 @@
 /Users/oroberts/Library/Mobile Documents/com~apple~CloudDocs/RDT/WorkExperience/WorkExperience copy/WorkExperience.Server/obj/Debug/net10.0/WorkExperience.Server.pdb
 /Users/oroberts/Library/Mobile Documents/com~apple~CloudDocs/RDT/WorkExperience/WorkExperience copy/WorkExperience.Server/obj/Debug/net10.0/WorkExperience.Server.genruntimeconfig.cache
 /Users/oroberts/Library/Mobile Documents/com~apple~CloudDocs/RDT/WorkExperience/WorkExperience copy/WorkExperience.Server/obj/Debug/net10.0/ref/WorkExperience.Server.dll
+/Users/oroberts/Library/Mobile Documents/com~apple~CloudDocs/RDT/WorkExperience/WorkExperience/WorkExperience.Server/obj/Debug/net10.0/WorkExperience.Server.sourcelink.json
