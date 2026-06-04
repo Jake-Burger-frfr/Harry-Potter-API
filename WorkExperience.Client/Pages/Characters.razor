@@ -12,12 +12,12 @@
         <FieldBody ColumnSize="ColumnSize.Is8">
             <div class="d-flex gap-2">
                 <input class="form-control" placeholder="Search" @bind="CharacterSearchText" @bind:event="oninput" />
-                <button class="@((CurrentCharacterFilter == "Students") ? "active" : string.Empty)" @onclick="@(() => ToggleFilter("Students"))">Students</button>
-                <button class="@((CurrentCharacterFilter == "Staff") ?  "active" : string.Empty)" @onclick="@(() => ToggleFilter("Staff"))">Staff</button>
-                <button class="@((CurrentCharacterFilter == "Gryffindor") ? "gryffindor" : string.Empty)" @onclick="@(() => ToggleFilter("Gryffindor"))">Gryffindor</button>
-                <button class="@((CurrentCharacterFilter == "Slytherin") ? "slytherin" : string.Empty)" @onclick="@(() => ToggleFilter("Slytherin"))">Slytherin</button>
-                <button class="@((CurrentCharacterFilter == "Ravenclaw") ? "ravenclaw" : string.Empty)" @onclick="@(() => ToggleFilter("Ravenclaw"))">Ravenclaw</button>
-                <button class="@((CurrentCharacterFilter == "Hufflepuff") ? "hufflepuff" : string.Empty)" @onclick="@(() => ToggleFilter("Hufflepuff"))">Hufflepuff</button>
+                <button class="button @((CurrentCharacterFilter == "Students") ? "button active" : string.Empty)" @onclick="@(() => ToggleFilter("Students"))">Students</button>
+                <button class="button @((CurrentCharacterFilter == "Staff") ?  "button active" : string.Empty)" @onclick="@(() => ToggleFilter("Staff"))">Staff</button>
+                <button class="button @((CurrentCharacterFilter == "Gryffindor") ? "button gryffindor" : string.Empty)" @onclick="@(() => ToggleFilter("Gryffindor"))">Gryffindor</button>
+                <button class="button @((CurrentCharacterFilter == "Slytherin") ? "button slytherin" : string.Empty)" @onclick="@(() => ToggleFilter("Slytherin"))">Slytherin</button>
+                <button class="button @((CurrentCharacterFilter == "Ravenclaw") ? "button ravenclaw" : string.Empty)" @onclick="@(() => ToggleFilter("Ravenclaw"))">Ravenclaw</button>
+                <button class="button @((CurrentCharacterFilter == "Hufflepuff") ? "button hufflepuff" : string.Empty)" @onclick="@(() => ToggleFilter("Hufflepuff"))">Hufflepuff</button>
             </div>
         </FieldBody>
     </Field>
@@ -273,6 +273,17 @@
             margin-bottom: -1px;
             margin-left: 5px;
         }
+        .button {
+            background-color: white;
+            border: 0.5px solid;
+            border-color: lightgrey;
+            border-radius: 6px;
+            border-width: 2px;
+            color: grey;
+            text-align: center;
+            text-decoration: none;
+            display: inline-block;
+        }
         .active {
             color: black;
             background-color: lightgrey
@@ -291,7 +302,7 @@
         }
         .hufflepuff {
             color: black;
-            background-color: #edd69a
+            background-color: #edd69a;
         }
     </style>
 }
