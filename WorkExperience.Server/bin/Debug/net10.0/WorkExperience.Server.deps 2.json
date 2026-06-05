@@ -1,0 +1,339 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "WorkExperience.Server/1.0.0": {
+        "dependencies": {
+          "Microsoft.AspNetCore.Components.WebAssembly.Server": "10.0.8",
+          "Swashbuckle.AspNetCore": "6.4.0",
+          "WorkExperience.Client": "1.0.0"
+        },
+        "runtime": {
+          "WorkExperience.Server.dll": {}
+        }
+      },
+      "Blazorise/1.5.3": {
+        "dependencies": {
+          "Blazorise.Licensing": "1.2.0"
+        },
+        "runtime": {
+          "lib/net8.0/Blazorise.dll": {
+            "assemblyVersion": "1.5.3.0",
+            "fileVersion": "1.5.3.0"
+          }
+        }
+      },
+      "Blazorise.Bootstrap5/1.5.3": {
+        "dependencies": {
+          "Blazorise": "1.5.3"
+        },
+        "runtime": {
+          "lib/net8.0/Blazorise.Bootstrap5.dll": {
+            "assemblyVersion": "1.5.3.0",
+            "fileVersion": "1.5.3.0"
+          }
+        }
+      },
+      "Blazorise.Components/1.5.3": {
+        "dependencies": {
+          "Blazorise": "1.5.3",
+          "Blazorise.Snackbar": "1.5.3"
+        },
+        "runtime": {
+          "lib/net8.0/Blazorise.Components.dll": {
+            "assemblyVersion": "1.5.3.0",
+            "fileVersion": "1.5.3.0"
+          }
+        }
+      },
+      "Blazorise.FluentValidation/1.5.3": {
+        "dependencies": {
+          "Blazorise": "1.5.3",
+          "FluentValidation": "11.2.0"
+        },
+        "runtime": {
+          "lib/net8.0/Blazorise.FluentValidation.dll": {
+            "assemblyVersion": "1.5.3.0",
+            "fileVersion": "1.5.3.0"
+          }
+        }
+      },
+      "Blazorise.Icons.FontAwesome/1.5.3": {
+        "dependencies": {
+          "Blazorise": "1.5.3"
+        },
+        "runtime": {
+          "lib/net8.0/Blazorise.Icons.FontAwesome.dll": {
+            "assemblyVersion": "1.5.3.0",
+            "fileVersion": "1.5.3.0"
+          }
+        }
+      },
+      "Blazorise.Licensing/1.2.0": {
+        "runtime": {
+          "lib/net8.0/Blazorise.Licensing.dll": {
+            "assemblyVersion": "1.2.0.0",
+            "fileVersion": "1.2.0.0"
+          }
+        }
+      },
+      "Blazorise.LoadingIndicator/1.5.3": {
+        "dependencies": {
+          "Blazorise": "1.5.3"
+        },
+        "runtime": {
+          "lib/net8.0/Blazorise.LoadingIndicator.dll": {
+            "assemblyVersion": "1.5.3.0",
+            "fileVersion": "1.5.3.0"
+          }
+        }
+      },
+      "Blazorise.Snackbar/1.5.3": {
+        "dependencies": {
+          "Blazorise": "1.5.3"
+        },
+        "runtime": {
+          "lib/net8.0/Blazorise.Snackbar.dll": {
+            "assemblyVersion": "1.5.3.0",
+            "fileVersion": "1.5.3.0"
+          }
+        }
+      },
+      "FluentValidation/11.2.0": {
+        "runtime": {
+          "lib/net6.0/FluentValidation.dll": {
+            "assemblyVersion": "11.0.0.0",
+            "fileVersion": "11.2.0.0"
+          }
+        }
+      },
+      "Microsoft.AspNetCore.Components.WebAssembly/10.0.8": {
+        "dependencies": {
+          "Microsoft.JSInterop.WebAssembly": "10.0.8"
+        },
+        "runtime": {
+          "lib/net10.0/Microsoft.AspNetCore.Components.WebAssembly.dll": {
+            "assemblyVersion": "10.0.8.0",
+            "fileVersion": "10.0.826.23019"
+          }
+        }
+      },
+      "Microsoft.AspNetCore.Components.WebAssembly.Server/10.0.8": {
+        "dependencies": {
+          "Microsoft.AspNetCore.Components.WebAssembly": "10.0.8"
+        },
+        "runtime": {
+          "lib/net10.0/Microsoft.AspNetCore.Components.WebAssembly.Server.dll": {
+            "assemblyVersion": "10.0.8.0",
+            "fileVersion": "10.0.826.23019"
+          }
+        }
+      },
+      "Microsoft.JSInterop.WebAssembly/10.0.8": {
+        "runtime": {
+          "lib/net10.0/Microsoft.JSInterop.WebAssembly.dll": {
+            "assemblyVersion": "10.0.8.0",
+            "fileVersion": "10.0.826.23019"
+          }
+        }
+      },
+      "Microsoft.OpenApi/1.2.3": {
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.OpenApi.dll": {
+            "assemblyVersion": "1.2.3.0",
+            "fileVersion": "1.2.3.0"
+          }
+        }
+      },
+      "Swashbuckle.AspNetCore/6.4.0": {
+        "dependencies": {
+          "Swashbuckle.AspNetCore.Swagger": "6.4.0",
+          "Swashbuckle.AspNetCore.SwaggerGen": "6.4.0",
+          "Swashbuckle.AspNetCore.SwaggerUI": "6.4.0"
+        }
+      },
+      "Swashbuckle.AspNetCore.Swagger/6.4.0": {
+        "dependencies": {
+          "Microsoft.OpenApi": "1.2.3"
+        },
+        "runtime": {
+          "lib/net6.0/Swashbuckle.AspNetCore.Swagger.dll": {
+            "assemblyVersion": "6.4.0.0",
+            "fileVersion": "6.4.0.0"
+          }
+        }
+      },
+      "Swashbuckle.AspNetCore.SwaggerGen/6.4.0": {
+        "dependencies": {
+          "Swashbuckle.AspNetCore.Swagger": "6.4.0"
+        },
+        "runtime": {
+          "lib/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll": {
+            "assemblyVersion": "6.4.0.0",
+            "fileVersion": "6.4.0.0"
+          }
+        }
+      },
+      "Swashbuckle.AspNetCore.SwaggerUI/6.4.0": {
+        "runtime": {
+          "lib/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll": {
+            "assemblyVersion": "6.4.0.0",
+            "fileVersion": "6.4.0.0"
+          }
+        }
+      },
+      "WorkExperience.Client/1.0.0": {
+        "dependencies": {
+          "Blazorise": "1.5.3",
+          "Blazorise.Bootstrap5": "1.5.3",
+          "Blazorise.Components": "1.5.3",
+          "Blazorise.FluentValidation": "1.5.3",
+          "Blazorise.Icons.FontAwesome": "1.5.3",
+          "Blazorise.LoadingIndicator": "1.5.3",
+          "Microsoft.AspNetCore.Components.WebAssembly": "10.0.8"
+        },
+        "runtime": {
+          "WorkExperience.Client.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WorkExperience.Server/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Blazorise/1.5.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-8HD32080swXuRmYXAKgWk4Ow3afQOVkTDT2zRX7m2GXKAND3CEtGy1DfwYbFAeb+tIxmtd9dg3gsAehlMP6y9w==",
+      "path": "blazorise/1.5.3",
+      "hashPath": "blazorise.1.5.3.nupkg.sha512"
+    },
+    "Blazorise.Bootstrap5/1.5.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-6RizD3l8WH4+3eaUG6OTrFgvoegV1yCO2hwHQO9lx2PLh8IO4x671ER6i/XZadWH8Wogi1ddsZ71rQnbkqDr0A==",
+      "path": "blazorise.bootstrap5/1.5.3",
+      "hashPath": "blazorise.bootstrap5.1.5.3.nupkg.sha512"
+    },
+    "Blazorise.Components/1.5.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Ys1B21/IylPgcOufIvumsEmx25Q56/fZbnAkcNBXpHDf/4nvk9CCrCR4PO2huRbIPtf+dZF69FKKK44BtqFD6Q==",
+      "path": "blazorise.components/1.5.3",
+      "hashPath": "blazorise.components.1.5.3.nupkg.sha512"
+    },
+    "Blazorise.FluentValidation/1.5.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-OFFevfvNVIAKQGd1xaReG5ZQm9yLSUAd0XRPN9TuYIqIwuttYM/sH7aw07oWupK2Gh45bTTsakY5z7OSqef4Rw==",
+      "path": "blazorise.fluentvalidation/1.5.3",
+      "hashPath": "blazorise.fluentvalidation.1.5.3.nupkg.sha512"
+    },
+    "Blazorise.Icons.FontAwesome/1.5.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-O768Wu5lHzqI4uV4z4CnSNPnPlzV+3ACwgOJLqKzkrFT7ncfahgJJxUmlK5QSCYJHb4bj+8EykgJNLnkHFa1jw==",
+      "path": "blazorise.icons.fontawesome/1.5.3",
+      "hashPath": "blazorise.icons.fontawesome.1.5.3.nupkg.sha512"
+    },
+    "Blazorise.Licensing/1.2.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-h7jkAF+yyIKnUqFYivaxIySDma1zLV+0xcg52r2gIe772BLQWnBaANjpMBKXxRlYiEyOGPQWjMHJWs3dL/TgmA==",
+      "path": "blazorise.licensing/1.2.0",
+      "hashPath": "blazorise.licensing.1.2.0.nupkg.sha512"
+    },
+    "Blazorise.LoadingIndicator/1.5.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-c2UWk+stEp5oRltDvTA6CQa2rSxB42ffKYBuNZ3I1w8wg9jUufukPR29k/50E6aJxrgXIpuf3Vys+i9kpgXqjw==",
+      "path": "blazorise.loadingindicator/1.5.3",
+      "hashPath": "blazorise.loadingindicator.1.5.3.nupkg.sha512"
+    },
+    "Blazorise.Snackbar/1.5.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-uRUETW04+LxjzfThDNSBj01IQHdwz/TBbxEcS7amZXNT882jQYpgTrPRW/iZ+oXYM8f5JzUo4dL0zrfjqttVVw==",
+      "path": "blazorise.snackbar/1.5.3",
+      "hashPath": "blazorise.snackbar.1.5.3.nupkg.sha512"
+    },
+    "FluentValidation/11.2.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-KV1YBM8T4plLKmShjxfmHMF6X1lDuXgyqE+t8NYNxb7jmMbPnA3u30RsuXAf2NYMv0TBCUQguI2Z6W17c/Dh1A==",
+      "path": "fluentvalidation/11.2.0",
+      "hashPath": "fluentvalidation.11.2.0.nupkg.sha512"
+    },
+    "Microsoft.AspNetCore.Components.WebAssembly/10.0.8": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-/bxlPbfqxqgWOXHab7EUblZUzoqPIF0Wa6pm6CiwVlSWERLSH9dXPgexNINbaNqEt348XM97fCv0c9r7ef2DdQ==",
+      "path": "microsoft.aspnetcore.components.webassembly/10.0.8",
+      "hashPath": "microsoft.aspnetcore.components.webassembly.10.0.8.nupkg.sha512"
+    },
+    "Microsoft.AspNetCore.Components.WebAssembly.Server/10.0.8": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-T450RZXJyy8ACXjHK+MuIyvPlZvQUVnaOKm11UPMNNy2Pp3wnm+jE6O34VVBvKwaeMUKNM32Vrw1dELIsgBKRg==",
+      "path": "microsoft.aspnetcore.components.webassembly.server/10.0.8",
+      "hashPath": "microsoft.aspnetcore.components.webassembly.server.10.0.8.nupkg.sha512"
+    },
+    "Microsoft.JSInterop.WebAssembly/10.0.8": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-sXmjUtF9Kb7heF2cDuT1X8wdJQnyXXJ5wMVN52AtBKUDOzMCfSNTCWoYb3y9LH+6YBAqci8NQkYnHAV+WHC8VA==",
+      "path": "microsoft.jsinterop.webassembly/10.0.8",
+      "hashPath": "microsoft.jsinterop.webassembly.10.0.8.nupkg.sha512"
+    },
+    "Microsoft.OpenApi/1.2.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Nug3rO+7Kl5/SBAadzSMAVgqDlfGjJZ0GenQrLywJ84XGKO0uRqkunz5Wyl0SDwcR71bAATXvSdbdzPrYRYKGw==",
+      "path": "microsoft.openapi/1.2.3",
+      "hashPath": "microsoft.openapi.1.2.3.nupkg.sha512"
+    },
+    "Swashbuckle.AspNetCore/6.4.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-eUBr4TW0up6oKDA5Xwkul289uqSMgY0xGN4pnbOIBqCcN9VKGGaPvHX3vWaG/hvocfGDP+MGzMA0bBBKz2fkmQ==",
+      "path": "swashbuckle.aspnetcore/6.4.0",
+      "hashPath": "swashbuckle.aspnetcore.6.4.0.nupkg.sha512"
+    },
+    "Swashbuckle.AspNetCore.Swagger/6.4.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-nl4SBgGM+cmthUcpwO/w1lUjevdDHAqRvfUoe4Xp/Uvuzt9mzGUwyFCqa3ODBAcZYBiFoKvrYwz0rabslJvSmQ==",
+      "path": "swashbuckle.aspnetcore.swagger/6.4.0",
+      "hashPath": "swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512"
+    },
+    "Swashbuckle.AspNetCore.SwaggerGen/6.4.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-lXhcUBVqKrPFAQF7e/ZeDfb5PMgE8n5t6L5B6/BQSpiwxgHzmBcx8Msu42zLYFTvR5PIqE9Q9lZvSQAcwCxJjw==",
+      "path": "swashbuckle.aspnetcore.swaggergen/6.4.0",
+      "hashPath": "swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512"
+    },
+    "Swashbuckle.AspNetCore.SwaggerUI/6.4.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-1Hh3atb3pi8c+v7n4/3N80Jj8RvLOXgWxzix6w3OZhB7zBGRwsy7FWr4e3hwgPweSBpwfElqj4V4nkjYabH9nQ==",
+      "path": "swashbuckle.aspnetcore.swaggerui/6.4.0",
+      "hashPath": "swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+    },
+    "WorkExperience.Client/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
